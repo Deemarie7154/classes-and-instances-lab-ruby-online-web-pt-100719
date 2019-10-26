@@ -1,6 +1,7 @@
 
 class Dog 
+
+end
 fido 
 snoopy
 lassie
-end
